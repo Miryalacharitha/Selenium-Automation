@@ -36,6 +36,9 @@ git push -u origin master
 To pull changes
 git pull origin master
 
+To merge changes
+first switch to matser branch then merge changes from development branch in your local machine....then use push command to push the changes to master
+
 
 
 
