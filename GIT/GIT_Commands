@@ -39,6 +39,15 @@ git pull origin master
 To merge changes
 first switch to matser branch then merge changes from development branch in your local machine....then use push command to push the changes to master
 
+To delete remote branch
+git push origin --d <branch name>
+
+to push changes remotely to development branchor anyother except to master branch
+git push origin <branch name>
+
+To pull chnages from remote development branch
+git pull origin <development>
+
 
 
 
