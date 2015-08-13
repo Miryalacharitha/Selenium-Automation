@@ -1,0 +1,45 @@
+To login commands
+git config --global user.name "...."
+git config --global user.email"...."
+
+To list commands
+
+git config --list
+
+To create Branch
+git checkout -b <new branch name>
+
+To List branches
+git branch
+
+To switch branch
+git checkout <branch name>
+
+To know in which branch you are in and all updates
+git status
+
+To create doc
+touch <filename>
+
+To create dir
+mkdir <foldername>
+
+To add
+git add 
+
+To commit
+git commit -m "message"
+
+To push changes to master
+git push -u origin master
+
+To pull changes
+git pull origin master
+
+
+
+
+
+
+
+
